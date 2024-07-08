@@ -12,7 +12,7 @@ This is a basic keylogger script written in Python using the `pynput` library. I
 1. Clone the repository:
 
    ```bash
-    https://github.com/godfrey-bn/PRODIGY-CS-04.git
+    https://github.com/RSreeV123/PRODIGY-CS-04.git
    ```
 2. Install the required dependencies:
    ```bash
